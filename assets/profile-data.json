@@ -1,0 +1,69 @@
+{
+  "contributions_total": 20,
+  "profile": {
+    "login": "Brujupeek1997",
+    "public_repos": 6
+  },
+  "repositories": [
+    {
+      "fork": false,
+      "has_pages": false,
+      "has_workflow": false,
+      "languages": {},
+      "name": "Brujupeek1997"
+    },
+    {
+      "fork": false,
+      "has_pages": true,
+      "has_workflow": true,
+      "languages": {
+        "CSS": 15447,
+        "HTML": 1251,
+        "JavaScript": 41698,
+        "Kotlin": 81634
+      },
+      "name": "bunisRecipe"
+    },
+    {
+      "fork": false,
+      "has_pages": true,
+      "has_workflow": true,
+      "languages": {
+        "CSS": 16958,
+        "HTML": 775,
+        "JavaScript": 18676
+      },
+      "name": "ch_react"
+    },
+    {
+      "fork": false,
+      "has_pages": true,
+      "has_workflow": false,
+      "languages": {
+        "CSS": 2143,
+        "HTML": 8604,
+        "JavaScript": 13210
+      },
+      "name": "FitTrack"
+    },
+    {
+      "fork": false,
+      "has_pages": false,
+      "has_workflow": false,
+      "languages": {
+        "Python": 12374
+      },
+      "name": "GuidanceAR"
+    },
+    {
+      "fork": false,
+      "has_pages": true,
+      "has_workflow": true,
+      "languages": {
+        "HTML": 343,
+        "Python": 20253
+      },
+      "name": "prices-repo"
+    }
+  ]
+}

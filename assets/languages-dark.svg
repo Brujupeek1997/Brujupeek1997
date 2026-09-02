@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-label="Public repository languages for Brujupeek1997">
+  <title>Public repository languages for Brujupeek1997</title>
+  <rect x="0.5" y="0.5" width="419" height="189" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="18" y="18" width="4" height="28" rx="2" fill="#2f81f7"/>
+  <text x="32" y="31" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Project Languages</text>
+  <text x="32" y="50" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Top 4 · GitHub Linguist project code</text>
+  <defs><clipPath id="language-bar"><rect x="24" y="73" width="372" height="11" rx="5.5"/></clipPath></defs>
+  <rect x="24" y="73" width="372" height="11" fill="#30363d" clip-path="url(#language-bar)"/>
+  <rect x="24.00" y="73" width="130.13" height="11" fill="#A97BFF" clip-path="url(#language-bar)"/>
+  <rect x="154.13" y="73" width="117.30" height="11" fill="#F1E05A" clip-path="url(#language-bar)"/>
+  <rect x="271.43" y="73" width="55.07" height="11" fill="#663399" clip-path="url(#language-bar)"/>
+  <rect x="326.50" y="73" width="52.01" height="11" fill="#3572A5" clip-path="url(#language-bar)"/>
+  <circle cx="29" cy="114" r="5" fill="#A97BFF"/>
+  <text x="41" y="118" fill="#e6edf3" font-size="12" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Kotlin</text>
+  <text x="204" y="118" fill="#8b949e" font-size="11" font-weight="400" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">35.0%</text>
+  <circle cx="225" cy="114" r="5" fill="#F1E05A"/>
+  <text x="237" y="118" fill="#e6edf3" font-size="12" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">JavaScript</text>
+  <text x="400" y="118" fill="#8b949e" font-size="11" font-weight="400" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">31.5%</text>
+  <circle cx="29" cy="143" r="5" fill="#663399"/>
+  <text x="41" y="147" fill="#e6edf3" font-size="12" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">CSS</text>
+  <text x="204" y="147" fill="#8b949e" font-size="11" font-weight="400" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">14.8%</text>
+  <circle cx="225" cy="143" r="5" fill="#3572A5"/>
+  <text x="237" y="147" fill="#e6edf3" font-size="12" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Python</text>
+  <text x="400" y="147" fill="#8b949e" font-size="11" font-weight="400" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">14.0%</text>
+</svg>
