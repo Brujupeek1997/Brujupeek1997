@@ -18,8 +18,8 @@
   <a href="#contact-placeholders"><img alt="LinkedIn URL needed" src="https://img.shields.io/badge/LinkedIn-TODO-21262D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=58A6FF"></a>
   <a href="#contact-placeholders"><img alt="Portfolio URL needed" src="https://img.shields.io/badge/Portfolio-TODO-21262D?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58A6FF"></a>
   <a href="mailto:raresbrujan946@gmail.com"><img alt="Email Rareș Brujan" src="https://img.shields.io/badge/Email-CONTACT-21262D?style=for-the-badge&amp;logo=gmail&amp;logoColor=58A6FF"></a>
-  <a href="https://github.com/Brujupeek1997/Brujupeek1997/blob/main/assets/cv/rares-brujan-cv-en.pdf"><img alt="Read the English CV" src="https://img.shields.io/badge/CV-ENGLISH-21262D?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=58A6FF"></a>
-  <a href="https://github.com/Brujupeek1997/Brujupeek1997/blob/main/assets/cv/rares-brujan-cv-de.pdf"><img alt="Deutschen Lebenslauf lesen" src="https://img.shields.io/badge/CV-DEUTSCH-21262D?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=58A6FF"></a>
+  <!-- <a href="https://github.com/Brujupeek1997/Brujupeek1997/blob/main/assets/cv/rares-brujan-cv-en.pdf"><img alt="Read the English CV" src="https://img.shields.io/badge/CV-ENGLISH-21262D?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=58A6FF"></a>
+  <a href="https://github.com/Brujupeek1997/Brujupeek1997/blob/main/assets/cv/rares-brujan-cv-de.pdf"><img alt="Deutschen Lebenslauf lesen" src="https://img.shields.io/badge/CV-DEUTSCH-21262D?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=58A6FF"></a> -->
 </p>
 
 </div>
