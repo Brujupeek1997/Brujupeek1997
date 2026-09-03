@@ -35,7 +35,7 @@ LINKEDIN_URL · PORTFOLIO_URL
 
 🎓 BSc Software Engineering &amp; Management · MSc Computer Science, Visual Computing @ TU Graz<br>
 🔬 Computer Vision · Deep Learning · Object Detection · Image Segmentation<br>
-🌲 TU Graz × AutoForst industry research · Multi-view timber imagery<br>
+<!--🌲 TU Graz × AutoForst industry research · Multi-view timber imagery<br> -->
 ⚙️ Reproducible systems from data preparation and testing to GPU inference<br>
 🗣️ Romanian (native) · German (C1) · English (C1)
 
@@ -43,7 +43,8 @@ LINKEDIN_URL · PORTFOLIO_URL
 
 ## Currently Working On
 
-> ### From Bark to Byte
+TODO
+<!-- > ### From Bark to Byte
 >
 > <sub>TU GRAZ × AUTOFORST · INDUSTRY RESEARCH COLLABORATION · 2026–PRESENT</sub>
 >
@@ -54,7 +55,7 @@ LINKEDIN_URL · PORTFOLIO_URL
 > `Python` · `Multi-view imagery` · `YOLO` · `OpenCV` · `CNNs` · `Vision Transformers`
 >
 > <a href="https://brujupeek1997.github.io/logClassifierWeb/"><img alt="Open the live From Bark to Byte project" src="https://img.shields.io/badge/VIEW_PROJECT-0969DA?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white"></a> <img alt="Private source" src="https://img.shields.io/badge/SOURCE-PRIVATE-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=white">
-
+-->
 ---
 
 ## Technology Stack
