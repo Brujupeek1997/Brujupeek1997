@@ -1,28 +1,18 @@
 {
-  "contributions_total": 20,
+  "contributions_total": 13,
   "profile": {
     "login": "Brujupeek1997",
-    "public_repos": 6
+    "public_repos": 5
   },
   "repositories": [
     {
       "fork": false,
       "has_pages": false,
       "has_workflow": true,
-      "languages": {},
-      "name": "Brujupeek1997"
-    },
-    {
-      "fork": false,
-      "has_pages": true,
-      "has_workflow": true,
       "languages": {
-        "CSS": 15447,
-        "HTML": 1251,
-        "JavaScript": 41698,
-        "Kotlin": 81634
+        "Python": 14908
       },
-      "name": "bunisRecipe"
+      "name": "Brujupeek1997"
     },
     {
       "fork": false,
