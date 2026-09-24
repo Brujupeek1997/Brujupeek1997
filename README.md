@@ -9,7 +9,7 @@
 </picture>
 
 <p>
-  <strong>Software engineer and MSc Computer Science student at TU Graz</strong><br>
+  <strong>Software engineer and MSc Computer Science student</strong><br>
   specializing in Visual Computing, Computer Vision, and Deep Learning.
 </p>
 
@@ -33,7 +33,7 @@ LINKEDIN_URL · PORTFOLIO_URL
 
 ## Current Focus
 
-🎓 BSc Software Engineering &amp; Management · MSc Computer Science, Visual Computing @ TU Graz<br>
+🎓 BSc Software Engineering &amp; Management · MSc Computer Science, Visual Computing <br>
 🔬 Computer Vision · Deep Learning · Object Detection · Image Segmentation<br>
 <!--🌲 TU Graz × AutoForst industry research · Multi-view timber imagery<br> -->
 ⚙️ Reproducible systems from data preparation and testing to GPU inference<br>
